@@ -10,14 +10,14 @@ To get you started we have provided some user stories and done a little bit of r
 ​
 ## User Stories
 ​
-- As a user, I can use a web-app to view the chat.
-- As a user, I can post a message to the chat.
-- As a user, I receive messages from other users in real-time.
-- As a user, I receive messages with a username and avatar image, telling me who posted it.
-- As a user, I can change my username.
-- As a user, I can change my avatar image using a url.
-- As a user, I can see which other users are online.
-- As a user, I received a message when another user connects / disconnects.
+- 1. As a user, I can use a web-app to view the chat.
+- 2. As a user, I can post a message to the chat.
+- 3. As a user, I receive messages from other users in real-time.
+- 4. As a user, I receive messages with a username and avatar image, telling me who posted it.
+- 5. As a user, I can change my username.
+- 6. As a user, I can change my avatar image using a url.
+- 7. As a user, I can see which other users are online.
+- 8. As a user, I received a message when another user connects / disconnects.
 ​
 ### A few not-really-user-stories
 ​
