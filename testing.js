@@ -1,2 +1,2 @@
-const int = 1;
-console.log(int);
+const intkfmkdfgkdg = 1;
+
